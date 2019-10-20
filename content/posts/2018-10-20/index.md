@@ -1,6 +1,6 @@
 ---
 path: "/test-ohouse"
-cover: ".Ohouse_profile.png"
+cover: "./Ohouse_profile.png"
 date: "2019-10-20"
 title: "기술블로그 테스트"
 tags: ['test', 'publish']
